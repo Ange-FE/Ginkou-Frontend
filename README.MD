@@ -5,8 +5,8 @@ ALL FILES OF THIS REPOSITORY HAVE BEEN CHANGED FROM THE ORIGINAL REPOSITORY : ht
 Initialize this project
 
 ```sh
-git clone https://github.com/CavernPerson/webapp
-cd webapp
+git clone https://github.com/ToxicLabs/Ginkou-Frontend
+cd Ginkou-Frontend
 npm install
 ```
 
